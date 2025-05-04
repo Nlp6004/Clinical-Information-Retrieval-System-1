@@ -1,5 +1,5 @@
 
-# Medical RAG System
+# Clincal Information Retrival  RAG System
 
 This repository contains a comprehensive implementation of a Medical Retrieval-Augmented Generation (RAG) system. The system integrates multiple components for document retrieval, question answering, and evaluation, tailored specifically for the medical domain.
 
@@ -76,16 +76,7 @@ The Medical RAG System is designed to enhance medical information retrieval and 
 
 ## Installation
 
-To set up the Medical RAG System, follow these steps:
-
-1. **Clone the Repository**
-
-   ```
-   git clone https://github.com/slinusc/medical_RAG_system.git
-   cd medical_RAG_system
-   ```
-
-2. **Install Dependencies**
+1. **Install Dependencies**
 
    Create a virtual environment and install the required packages:
 
@@ -95,7 +86,7 @@ To set up the Medical RAG System, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. **Download Pre-trained Models**
+2. **Download Pre-trained Models**
 
    Ensure that you download and set up any necessary pre-trained models (e.g., BioBERT, MedCPT).
 
