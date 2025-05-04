@@ -1,5 +1,5 @@
 
-# Clincal Information Retrival  RAG System
+# Clincal Information Retrieval  RAG System
 
 This repository contains a comprehensive implementation of a Medical Retrieval-Augmented Generation (RAG) system. The system integrates multiple components for document retrieval, question answering, and evaluation, tailored specifically for the medical domain.
 
